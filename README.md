@@ -3,7 +3,7 @@
  My project is a web-based endeavor created as a part of my ongoing programming studies. This project showcases my proficiency in using the fundamental web technologies of HTML, CSS, and JavaScript. The primary goal was to develop a responsive design that adapts seamlessly to both desktop and smartphone screens. 
 </br></br></br>
 
-<h3><a href="https://lucca-sa.github.io/replica-instagram-login/">Deployed Website</a></a></h3>
+<h3><a href="https://lucca-sa.github.io/replica-instagram-login/">🔗 Deployed Website 🔗</a></a></h3>
 </br>
 <h2>Languages and tools used:</h2>
 </br>
