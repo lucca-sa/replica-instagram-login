@@ -36,6 +36,14 @@ button {
     color: white;
 }
 
+button:hover, a:hover {
+    opacity: .8;
+}
+
+button:active, a:active {
+    opacity: .5;
+}
+
 .facebook {
     color: #385185;
     text-align: center;
